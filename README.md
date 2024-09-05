@@ -10,5 +10,12 @@ Poject 4 focuses on testing the web application. This kind of testing is classif
 - edge browser
   
 ## INSTALLATION
+- clone repository: git clone https://github.com/username/repository-name.git
+- cd repository-name
+- launch UiPath Studio.
+- click on Open a Local Project.
+- browse to the location where you cloned the repository, select the project.json file inside the folder, and click Open.
+
 ## HOW TO USE REPORT
 ## REFRENCES
+chat GPT---
