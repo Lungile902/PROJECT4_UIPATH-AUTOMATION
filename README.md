@@ -17,5 +17,9 @@ Poject 4 focuses on testing the web application. This kind of testing is classif
 - browse to the location where you cloned the repository, select the project.json file inside the folder, and click Open.
 
 ## HOW TO USE REPORT
+- open the project in UiPath Studio.
+- Put all necessary input parameters as requested in the instructions
+- Run the project in either Debug or Run mode
+
 ## REFRENCES
 chat GPT---
