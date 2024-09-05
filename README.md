@@ -22,7 +22,7 @@ Poject 4 focuses on testing the web application. This kind of testing is classif
 - Run the project in either Debug or Run mode
 
 ## REFRENCES
-- chat GPT---
+- OpenAI. (2024) ChatGPT response to a query on UiPath documentation (ChatGPT, GPT-4). Available at: https://chat.openai.com/ (Accessed: 3 September 2024).
 - UiPath. (2024) Workflow Design. Available at:[ https://docs.uipath.com/studio/standalone/2024.10/user-guide/workflow-design (Accessed: 1 September 2024).
 - UiPath. (2024) ui-automation. Available at:[ https://docs.uipath.com/studio/standalone/2024.10/user-guide/ui-automation (Accessed: 1 September 2024).
 - UiPath. (2024) Managing Variables. Available at:[ https://docs.uipath.com/studio/standalone/2024.10/user-guide/managing-variables (Accessed: 1 September 2024).
