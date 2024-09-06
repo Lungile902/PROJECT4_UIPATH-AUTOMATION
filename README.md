@@ -2,10 +2,17 @@
 
 ## PROJECT DESCRIPTION
 Poject 4 focuses on testing the web application. This kind of testing is classified as UAT (user acceptance testing), which primarily focuses on testing the web application output which is expected bfy the user. The User Acceptance Testing in most instances of development life cycle is done manually. Subsequently, it mostly relies on human interaction for the test to be conducted. Although, recently with the new technology developed, testing can also be done automatically. Robotic Process Automation can conduct user acceptance testing without the need of human interaction. Its function’s the same way as the human would. Thus, minimising effort and time in user acceptance testing. Therefore, RPA should be deployed in this project in testing the previous website that was created in project 3.
+CLASSROOM REPOSITORY ACCESS HERE: 
 
 ## PREREQUISITES
 - UiPath Studio
-- depencies xxxxxxxxxxxxxxxx
+- depencies UIPath Excel Activities
+- UIPath Mail Activities
+- UIPath System Activities
+- UIPath Testing Activities
+- UIPath Automation Activities
+- UIPath Automation Activities.Design
+- UIPath Workflow Activities
 - excel not in protection mode
 - edge browser
   
@@ -27,3 +34,9 @@ Poject 4 focuses on testing the web application. This kind of testing is classif
 - UiPath. (2024) ui-automation. Available at:[ https://docs.uipath.com/studio/standalone/2024.10/user-guide/ui-automation (Accessed: 1 September 2024).
 - UiPath. (2024) Managing Variables. Available at:[ https://docs.uipath.com/studio/standalone/2024.10/user-guide/managing-variables (Accessed: 1 September 2024).
 - UiPath. (2024) Studio Logs. Available at:[ https://docs.uipath.com/studio/standalone/2024.10/user-guide/studio-logs (Accessed: 1 September 2024).
+- Moffat, E., & Puthiyamadam, T. (2020). The Automation Imperative. Harvard Business Review.
+- Fuller, J., & Raman, M. (2021). Reskilling in the Age of AI and Automation. Harvard Business Review.
+- Bock, A. J., & George, G. (2021). AI and Business Process Automation: Impacts and Integration. Harvard Business School Working Papers.
+- Binns, R., & Diakopoulos, N. (2019). Ethics and Governance of AI. Berkman Klein Center for Internet & Society, Harvard University.
+- Harvard Management Update. (2019). The Business Value of Automation. Harvard Business Publishing.
+- Fuller, J. B., & Restuccia, D. (2021). Automation and the Future of Work. Harvard Business Review.
