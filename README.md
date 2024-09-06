@@ -7,14 +7,14 @@ CLASSROOM REPOSITORY ACCESS HERE:
 ## PREREQUISITES
 - UiPath Studio
 - depencies UIPath Excel Activities
-- UIPath Mail Activities
-- UIPath System Activities
-- UIPath Testing Activities
-- UIPath Automation Activities
-- UIPath Automation Activities.Design
-- UIPath Workflow Activities
+- depencies UIPath Mail Activities
+- depencies UIPath System Activities
+- depencies UIPath Testing Activities
+- depencies UIPath Automation Activities
+- depencies UIPath Automation Activities.Design
+- depencies UIPath Workflow Activities
 - excel not in protection mode
-- edge browser
+- edge browser installed
   
 ## INSTALLATION
 - clone repository: git clone https://github.com/username/repository-name.git
